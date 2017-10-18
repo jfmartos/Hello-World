@@ -1,3 +1,2 @@
 # Hello-World
-My 1est GitHub Project
 Testing GitHub Guides...
