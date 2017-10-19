@@ -23,6 +23,7 @@
   <div id="container">
 
      <div class="ex2">  
+	    <h2>Hello World!!!</h2>  
         <img alt="Efecto lupa..." src="Logo.jpg" />  
      </div>
 
