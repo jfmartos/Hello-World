@@ -6,7 +6,7 @@
   <!meta charset="utf-8">
   <!meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <title>Dolphin-PHP on OpenShift...</title>
+  <title>Testing on UBUNTU...</title>
 
   <!Inserta las Hojas de estilo en cascada...>
 
