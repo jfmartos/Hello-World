@@ -6,7 +6,7 @@
   <!meta charset="utf-8">
   <!meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <title>Testing on UBUNTU...</title>
+  <title>Testing on UBUNTU with Atom...</title>
 
   <!Inserta las Hojas de estilo en cascada...>
 
@@ -19,18 +19,18 @@
 <body>
 
   <CENTER>
- 
+
   <div id="container">
 
-     <div class="ex2">  
-        <h2>Hello World!!!</h2>  
-        <img alt="Efecto lupa..." src="Logo.jpg" />  
+     <div class="ex2">
+        <h2>Hello World!!!</h2>
+        <img alt="Efecto lupa..." src="Logo.jpg" />
      </div>
 
-  </div> 
+  </div>
 
   </CENTER>
-                      
+
 
 </body>
 </html>
